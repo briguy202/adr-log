@@ -1,6 +1,6 @@
 # Brian test
 
-* Status: deprecated
+* Status: smelly
 * Date: 2022-08-09
 
 ## Context and Problem Statement
