@@ -1,6 +1,6 @@
 # Brian test
 
-* Status: proposed
+* Status: deprecated
 * Date: 2022-08-09
 
 ## Context and Problem Statement
